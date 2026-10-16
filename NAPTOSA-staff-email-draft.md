@@ -12,9 +12,9 @@ https://loxlyatkinson.github.io/naptosa-workshop-module-resources/
 View the new workshop journey here:  
 https://naptosawc.co.za/workshop-announcement
 
-The Workshop Portal is open to members and non-members. Creating a portal profile is separate from applying for NAPTOSA membership.
+Current workshop listings and booking are open to members and non-members. Standalone Workshop Portal profiles are coming soon and will be separate from applying for NAPTOSA membership.
 
-The new experience makes it easier for every educator to discover upcoming professional development workshops, register, pay, receive invoices, receipts and certificates automatically, track SACE points, retrieve materials and opt in for reminders.
+The current experience makes it easier for every educator to discover, book and pay for upcoming professional development workshops, with invoices, receipts and certificates sent automatically. The coming profile experience will bring SACE point tracking, workshop materials and optional reminders together in one place.
 
 Kind regards,  
 Loxly
